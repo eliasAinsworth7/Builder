@@ -1,6 +1,6 @@
 # 🛠️ Solution Build & Error Notification System
 
-This project is a C++ and Qt-based desktop application developed in Visual Studio. It automates the build process of `.sln` (solution) files according to a predefined schedule and order, and sends error notifications via email when build failures occur.
+This project is a C++ and Qt-based desktop application developed in Visual Studio. It automates the build process of `.sln` (solution) files according to a predefined schedule and order, and sends error notifications via email when build failures occur. All setting will be saved after closing the app.
 
 ## 🚀 Features
 
