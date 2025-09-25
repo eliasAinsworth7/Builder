@@ -20,24 +20,7 @@ This project is a C++ and Qt-based desktop application developed in Visual Studi
 - SOLID Principles
 
 
-## ⚙️ How to Build
 
-1. Open the `.sln` file in Visual Studio  
-2. Set build configuration to `Release`  
-3. Build the solution (`Ctrl + Shift + B`)  
-4. Use `windeployqt` to bundle Qt dependencies  
-5. Run the `.exe` from the `Release` folder
-
-## 📬 Email Notification Setup
-
-
-## ⚙️ How to Build
-
-1. Open the `.sln` file in Visual Studio  
-2. Set build configuration to `Release`  
-3. Build the solution (`Ctrl + Shift + B`)  
-4. Use `windeployqt` to bundle Qt dependencies  
-5. Run the `.exe` from the `Release` folder
 
 ## 📬 Email Notification Setup
 
